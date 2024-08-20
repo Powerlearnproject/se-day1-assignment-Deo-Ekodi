@@ -83,17 +83,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
     may change due to changing needs, feedback from customers needs to be satisfied... all this calls for 
     immediate action of rewriting some components.
 
-
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-    Waterfall is a linear system of working that requires a team to complete each project phase before moving 
-    to the next one, while Agile, encourages a team to work simultaneously on dirrerent phases of the project.
+Waterfall is a linear system of working that requires a team to complete each project phase before moving 
+to the next one, while Agile, encourages a team to work simultaneously on dirrerent phases of the project.
 
-    For a one-time contract, Waterfallwould be the most appropriate, as the client needs only one version of 
-    a complete product. On the other hand, agile method would be used for a dynamic product, where both budget, 
-    requirements and time are not fixed.
-
+For a one-time contract, Waterfallwould be the most appropriate, as the client needs only one version of 
+a complete product. On the other hand, agile method would be used for a dynamic product, where both budget, 
+requirements and time are not fixed.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
@@ -108,21 +105,20 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
     procedures and conduct board meetings
 
 
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-    These softwares provide a friendly text(isn't code text?) editing environment for software engineers.
-    This includes but not limined to:
-        1. Vim editor
-        2. Micro editor
-        3. Kwrite
-        4. IntelliJ
-        5. Eclipse
-        6. Microsoft's VSCode & MSVC editors
-    Version Control on the other side, tracks changes and enables for team work in software development.
-    They include but not limited to:
-        1. Gitlab
-        2. Github
+These softwares provide a friendly text(isn't code text?) editing environment for software engineers.
+This includes but not limined to:
+    1. Vim editor
+    2. Micro editor
+    3. Kwrite
+    4. IntelliJ
+    5. Eclipse
+    6. Microsoft's VSCode & MSVC editors
+Version Control on the other side, tracks changes and enables for team work in software development.
+They include but not limited to:
+    1. Gitlab
+    2. Github
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -142,7 +138,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-```plaintext
+
 1. Unit
     This involves testing a single component of the whole architecture
 2. Integration
