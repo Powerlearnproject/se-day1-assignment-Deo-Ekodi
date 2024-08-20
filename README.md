@@ -6,14 +6,14 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-```plaintext
+
 Software Engineering is a subset in the domain of Computer Science which deals with design, 
 writing, testing and maintenance of programs meant to harness functionality of computers.
-```
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-```plaintext
+
 1. Introduction of (High level)programming Languages
     The first computer codes were much specialized to serve only the purpose they were built for, 
     e.g. the Turing Machine.
@@ -64,11 +64,11 @@ Identify and describe at least three key milestones in the evolution of software
     natural language processing, and autonomous systems. The 21st century has seen AI integrated into various 
     software engineering processes, from automated testing to intelligent coding assistants, revolutionizing 
     the field and opening new avenues for innovation.
-```
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-```plaintext
+
 1. Design
     This, being the initial stage, a software is planned to solve a problem under a particular domain.
     Early development of list of requirements is usually done here.
@@ -82,21 +82,21 @@ List and briefly explain the phases of the Software Development Life Cycle.
     You might wonder if a software wears(well it does). dependancies may become outdated, some components 
     may change due to changing needs, feedback from customers needs to be satisfied... all this calls for 
     immediate action of rewriting some components.
-```
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-```plaintext
+
     Waterfall is a linear system of working that requires a team to complete each project phase before moving 
     to the next one, while Agile, encourages a team to work simultaneously on dirrerent phases of the project.
 
     For a one-time contract, Waterfallwould be the most appropriate, as the client needs only one version of 
     a complete product. On the other hand, agile method would be used for a dynamic product, where both budget, 
     requirements and time are not fixed.
-```
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-```plaintext
+
 1. Software Developer
     One who writes new code for a product and modifies existing codebase where necessary.
 
@@ -106,11 +106,11 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 3. Project Manager
     One who ensures seamless performance across all departments under a project. They oversee development 
     procedures and conduct board meetings
-```
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-```plaintext
+
     These softwares provide a friendly text(isn't code text?) editing environment for software engineers.
     This includes but not limined to:
         1. Vim editor
@@ -123,10 +123,10 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
     They include but not limited to:
         1. Gitlab
         2. Github
-```
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-```plaintext
+
 1. Time Constraints
     Meeting deadlines can sometimes be a nightmare when one can't fix a bug in time.
 2. Toxic Company Culture
@@ -139,7 +139,7 @@ What are some common challenges faced by software engineers? Provide strategies 
     Health-related issues may arise, mostly obasity and blindness(myopia, hypermetropia).
 5. Exposure time with family (some of the engineers)
     Some barely find time to hang around with family due to intense workloads.
-```
+
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 ```plaintext
@@ -151,13 +151,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
     This is the whole functional arcitecture, well-tested and running in good condition
 4. Acceptance
     This is an indicator for units passing tests which shall then be integrated to the system.
-```
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-```plaintext
+
 Definition
     Prompt Engineering is the act of feedin AI with specialized data, so as to get a more desired
     output from it.
@@ -165,10 +165,10 @@ Definition
 Importance
 1. Gaining control over AI output.
 2. Used when fine-tuning AI for better user experience.
-```
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-```plaintext
+
 Vague:
     "You are tasked with writing a kernel from ground-up, provide a directory structure and write the whole kernel"
 Improved:
@@ -179,4 +179,3 @@ Break it down into parts:
 
 Obviously, a kernel is a huge modular project. This second approach is more convenient since you have 
 the project in your control rather than letting AI deduce implicitly what to add and what to exclude.
-```
